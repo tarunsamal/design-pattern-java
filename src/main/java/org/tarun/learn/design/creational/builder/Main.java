@@ -1,4 +1,4 @@
-package org.tarun.learn.design.creational;
+package org.tarun.learn.design.creational.builder;
 
 public class Main {
 

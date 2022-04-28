@@ -1,4 +1,4 @@
-package org.tarun.learn.design.simplefactory;
+package org.tarun.learn.design.creational.simplefactory;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package org.tarun.learn.design.creational;
+package org.tarun.learn.design.creational.builder;
 
 import org.apache.commons.lang3.StringUtils;
 

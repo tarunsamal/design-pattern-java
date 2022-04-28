@@ -1,4 +1,4 @@
-package org.tarun.learn.design.prototype;
+package org.tarun.learn.design.creational.prototype;
 
 public class Main {
     public static void main(String[] args) throws CloneNotSupportedException {

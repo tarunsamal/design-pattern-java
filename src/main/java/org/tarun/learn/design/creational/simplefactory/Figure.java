@@ -1,18 +1,17 @@
-package org.tarun.learn.design.factorymethod;
+package org.tarun.learn.design.creational.simplefactory;
 
 public abstract class Figure {
 
     abstract String getName();
-
 }
 
 class Quadrilateral extends Figure
 {
- @Override
+
+    @Override
     String getName() {
         return this.getClass().getSimpleName();
     }
-
 }
 class Pentagon extends Figure
 {

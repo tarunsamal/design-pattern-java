@@ -1,4 +1,4 @@
-package org.tarun.learn.design.factorymethod;
+package org.tarun.learn.design.creational.factorymethod;
 
 public class Main {
 
